@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 👋 Hi, I’m @lucavauda
+* 👋 Hi, I’m Luca Vaudano
 * 👀 I’m interested in Cybersecurity, Network Security, Privacy and more.
 * 🌱 I have a BSc in CS and a MSc in Cybersecurity.
 * 🧑‍💼 I’m working as a Cybersecurity analyst in Spike Reply
